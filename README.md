@@ -34,7 +34,7 @@ delivering outstanding results for every project I undertake.
     <span style="line-height:70px">Development</span> 
     <br>
     <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,firebase,kafka" /><br>
-    <img src="https://skillicons.dev/icons?i=materialui,mysql,nginx,redis,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,nginx,redis,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=sass,sqlite,dynamodb,dotnet,azure" /><br>
     <br><br>
     <span style="line-height:70px">Tools</span> 
