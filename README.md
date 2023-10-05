@@ -43,7 +43,7 @@ delivering outstanding results for every project I undertake.
     <img src="https://skillicons.dev/icons?i=gitlab,idea,postman,stackoverflow,visualstudio" /><br>
 </p>
 
-<br><br>
+<br>
 
 <h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection 📡</h1>
 <p align="center">
