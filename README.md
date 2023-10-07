@@ -13,7 +13,7 @@
 
 <div style="width:90vw;display:flex;justify-content:center;align-items:center;position:relative;">
 <p style="text-align: center;padding-left: 20px;padding-right: 20px;max-width:700px; font-family: 'Fira Code', monospace; font-weight: 600; font-size:16px">
-I am <span style="font-size:18px">Pruthiraj Routaray</span>, and I am an accomplished Android mobile app 
+I am <span style="font-size:20px">Pruthiraj Routaray</span>, and I am an accomplished Android mobile app 
 developer. With my expertise in both front-end and back-end technologies, I possess a comprehensive 
 understanding of building robust and user-friendly android applications. My imaginative and innovative
 thinking allows me to approach problem-solving from unique angles, resulting in elegant solutions. I
