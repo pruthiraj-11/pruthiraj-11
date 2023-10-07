@@ -6,7 +6,7 @@
 <h1 style="width: 90vw;text-align: center;">Hello Coders</h1>
 
 <div style="width: 90vw; display:flex; justify-content:center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=33F765&width=100&size=30&height=35&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=33F765&width=100&size=25&height=30&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33F765&vCenter=true&size=25&width=150&height=30&lines=Programmer;Developer" style="height:auto;text-align:center;"></img>
 </div>
 <br>
