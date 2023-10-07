@@ -15,12 +15,12 @@
 <p style="text-align: center;padding-left: 20px;padding-right: 20px;max-width:700px; font-family: 'Fira Code', monospace; font-weight: 600; font-size:16px">
 I am <span style="font-size:18px">Pruthiraj Routaray</span>, and I am an accomplished Android mobile app 
 developer. With my expertise in both front-end and back-end technologies, I possess a comprehensive 
-understanding of building robust and user-friendly android applications. However, my talents extend 
-beyond coding. My imaginative and innovative thinking allows me to approach problem-solving from
-unique angles, resulting in elegant solutions. I continuously strive to stay updated with the 
-latest industry trends and technologies, ensuring that my work remains cutting-edge and impactful. 
-With my diverse skill set and passion for creating exceptional digital experiences, I am dedicated to
-delivering outstanding results for every project I undertake.
+understanding of building robust and user-friendly android applications. My imaginative and innovative
+thinking allows me to approach problem-solving from unique angles, resulting in elegant solutions. I
+continuously strive to stay updated with the latest industry trends and technologies, ensuring that
+my work remains cutting-edge and impactful. With my diverse skill set and passion for creating 
+exceptional digital experiences, I am dedicated to delivering outstanding results for every project 
+I undertake.
 </p>
 </div>
 <br>
