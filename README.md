@@ -36,7 +36,7 @@ I undertake.
     <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,firebase,kafka" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,nginx,redis,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=sass,sqlite,dynamodb,dotnet,azure" /><br>
-    <br><br>
+    <br>
     <span style="line-height:70px">Tools</span> 
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,gradle,maven,figma" /><br>
