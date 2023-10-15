@@ -45,7 +45,7 @@ I undertake.
 
 <br>
 
-<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection 📡</h1>
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Social</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/pruthiraj-35573562139p/"> <img style="width:80px;aspect-ration:1/1;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-2950130-2447889.png"></img></a>
 </div>
