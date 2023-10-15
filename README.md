@@ -24,7 +24,7 @@ I undertake.
 </p>
 </div>
 <br>
-<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills✨</h1>
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills</h1>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:27px;">
     <span style="line-height:70px">Languages</span> 
