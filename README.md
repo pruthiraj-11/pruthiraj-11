@@ -34,7 +34,7 @@ I undertake.
     <span style="line-height:70px">Development</span> 
     <br>
     <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,firebase,kafka" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,nginx,redis,graphql,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx,redis,graphql,gcp" /><br>
     <img src="https://skillicons.dev/icons?i=sass,sqlite,dynamodb,dotnet,azure" /><br>
     <br>
     <span style="line-height:70px">Tools</span> 
