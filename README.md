@@ -29,7 +29,7 @@ I undertake.
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:27px;">
     <span style="line-height:70px">Languages</span> 
     <br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,html" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,html,js" /> 
     <br><br>
     <span style="line-height:70px">Development</span> 
     <br>
